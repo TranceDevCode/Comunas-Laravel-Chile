@@ -1,4 +1,5 @@
-# laravelchile
+# Comunas y regiones de Chile para Laravel.-
+
 Paquete de comunas y regiones para Chile, Laravel
 
 
